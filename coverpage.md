@@ -18,4 +18,4 @@
 
 
 
-[Get Started](/)
+[Get Started](计算机基础)
