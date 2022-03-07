@@ -2,42 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ec36fb8-bbb5-49eb-baa9-f2023cecab38" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.nojekyll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构与算法/其他/OD机考真题一.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构与算法/其他/OD机考真题三.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构与算法/其他/OD机考真题二.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构与算法/其他/OD机考真题五.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构与算法/其他/OD机考真题四.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构与算法/数据结构/二叉树/二叉树的修改和构造.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构与算法/数据结构/二叉树/二叉树的遍历.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构与算法/算法思想/动态规划/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构与算法/算法思想/动态规划/基础题目.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构与算法/算法思想/动态规划/子序列问题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构与算法/算法思想/动态规划/打家劫舍问题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构与算法/算法思想/动态规划/股票问题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构与算法/算法思想/动态规划/背包问题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构与算法/算法思想/回溯算法/.img/200px-telephone-keypad2svg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构与算法/算法思想/回溯算法/.img/20210130173631174.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构与算法/算法思想/回溯算法/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构与算法/算法思想/回溯算法/子集.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构与算法/算法思想/回溯算法/排列.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构与算法/算法思想/回溯算法/组合.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverpage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sidebar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/常用编程软件和工具.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/应用框架.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/计算机基础.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/项目经验总结.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +49,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -94,6 +61,8 @@
       <option name="presentableId" value="Default" />
       <updated>1646668123818</updated>
       <workItem from="1646668131330" duration="184000" />
+      <workItem from="1646669518219" duration="51000" />
+      <workItem from="1646669579177" duration="35000" />
     </task>
     <servers />
   </component>
